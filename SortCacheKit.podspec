@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "CacheKit"
+  spec.name         = "SortCacheKit"
   spec.version      = "0.0.1"
   spec.summary      = "分类存储数据，支持多种缓存方案，NSUserDefaults、File文件存储、memory存储"
   spec.description  = <<-DESC
